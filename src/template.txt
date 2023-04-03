@@ -1,0 +1,8 @@
+public class XXXX {
+ 
+
+  public static void main(String[] args) {
+    System.out.println(new XXXX().isSubsequence("abc", "ahbgdc"));
+    System.out.println(new XXXX().isSubsequence("axc", "ahbgdc"));
+  }
+}
